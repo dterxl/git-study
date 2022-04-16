@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("热修复1");
         System.out.println("热修复2：测试冲突");
         System.out.println("master 第三次提交");
+        System.out.println("master 第四次提交 by Github");
     }
 }
